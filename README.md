@@ -25,6 +25,11 @@ RFID 인증과 TCP/IP 소켓 통신을 기반으로 금고 단말을 서버와 �
 도난 감지(볼케이스)시 **lock**
 
 
-
+## 시스템 구성 
 <img width="911" height="497" alt="image" src="https://github.com/user-attachments/assets/2531f0c8-6278-4094-b760-906ba561241e" />
-<img width="817" height="449" alt="image" src="https://github.com/user-attachments/assets/e4b35219-90ff-4fc8-83b2-f64e21bd65c5" />
+- 
+
+<img width="853" height="454" alt="image" src="https://github.com/user-attachments/assets/5c6b7f82-ee05-4ccc-a111-b4134b04a2b3" />
+
+## 기능
+
