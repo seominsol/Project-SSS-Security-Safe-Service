@@ -14,15 +14,17 @@ RFID 인증과 TCP/IP 소켓 통신을 기반으로 금고 단말을 서버와 �
 ## 🎯 시연영상
 
 #### [영상1](https://youtu.be/Lh4SUqPK2ic)
-초기 비밀번호 0000
-사용자가 0000 입력 --> 로그인 성공
-관리자가 비밀번호 1111로 변경
-사용자가 0000 입력 --> 로그인 실패
-사용자가 1111 입력 --> 로그인 성공
+초기 비밀번호 0000  
+사용자가 0000 입력 --> 로그인 성공  
+관리자가 비밀번호 1111로 변경  
+사용자가 0000 입력 --> 로그인 실패  
+사용자가 1111 입력 --> 로그인 성공  
 
 #### [영상2](https://youtu.be/F2MfLSNTfTs)
-
-
-
-비밀번호 5번 연속 인증 실패 시 **lock**
+비밀번호 5번 연속 인증 실패 시 **lock**  
 도난 감지(볼케이스)시 **lock**
+
+
+
+<img width="911" height="497" alt="image" src="https://github.com/user-attachments/assets/2531f0c8-6278-4094-b760-906ba561241e" />
+<img width="817" height="449" alt="image" src="https://github.com/user-attachments/assets/e4b35219-90ff-4fc8-83b2-f64e21bd65c5" />
