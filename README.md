@@ -6,7 +6,7 @@ TCPIP Socket 통신 기반 IoT 프로젝트
 RFID 인증과 TCP/IP 소켓 통신을 기반으로 금고 단말을 서버와 연결하여, 인증된 사용자만 안전하게 캐비닛을 사용하고하고 중앙에서 통합 관리할 수 있는 IoT 보안 시스템을 구축하는 것이 목표입니다.
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=arduino&logoColor=white)  
 ![Firmware](https://img.shields.io/badge/Firmware-0A9396?style=flat)
 ![TCP/IP Socket](https://img.shields.io/badge/TCP%2FIP%20Socket-005F73?style=flat)
