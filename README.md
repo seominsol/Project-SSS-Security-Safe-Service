@@ -38,6 +38,11 @@ RFID 인증과 TCP/IP 소켓 통신을 기반으로 금고 단말을 서버와 �
 
 <img width="911" height="497" alt="image" src="https://github.com/user-attachments/assets/2531f0c8-6278-4094-b760-906ba561241e" />
 
+
+<img width="1062" height="401" alt="image" src="https://github.com/user-attachments/assets/8c78598d-d905-456f-b038-ba8c7fa7bb17" />
+
+
+
 ### 📡 여러 캐비닛이 서버로 비밀번호를 보내고, 서버가 DB와 관리자 시스템을 통해 개방 여부를 관리하는 구조
 | 구성 요소 | 역할 | 연결 방식 |
 |----------|------|-----------|
